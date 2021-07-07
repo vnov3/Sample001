@@ -1,3 +1,4 @@
 print("Test");
+print("Test new");
 print("Exit");
 return;
